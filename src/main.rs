@@ -27,5 +27,6 @@ fn main() {
             color::write_color(&pixel_color);
         }
     }
+    println("Where is printf()?? Where is cout << ??")
     println!("Done!");
 }
